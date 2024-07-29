@@ -50,4 +50,3 @@ The models effectively forecasted furniture sales, demonstrating the potential f
 
 ---
 
-Feel free to customize this README file further to suit your project's specifics!
