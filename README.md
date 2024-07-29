@@ -1,4 +1,3 @@
-Sure! Here's a concise README file for your time series forecasting project on Superstore data:
 
 ---
 
@@ -24,8 +23,8 @@ This project focuses on time series analysis and forecasting for Superstore sale
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Jasmit7/SuperStore-Forecast
+   cd SuperStore-Forecast
    ```
 
 2. **Install dependencies**:
